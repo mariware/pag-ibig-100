@@ -12,10 +12,11 @@ const Carousel: React.FC<{
     profiles: {
         firstName: string;
         lastName: string;
-        age: number | string;
+        age: number | string | null;
         nationality: string;
         location: string;
         imageUrl: string;
+        link: string;
     }[];
 }> = ({ profiles }) => {
     const [currentIndex, setCurrentIndex] = useState(0);

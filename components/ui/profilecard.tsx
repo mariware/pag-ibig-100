@@ -1,7 +1,7 @@
 const ProfileCard: React.FC<{
   firstName: string;
   lastName: string;
-  age: number | string;
+  age: number | string | null;
   nationality: string;
   location: string;
   imageUrl: string;
