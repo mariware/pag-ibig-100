@@ -15,8 +15,8 @@ const ProfileCard: React.FC<{
       className="block max-w-sm mx-auto"
     >
       <article
-        className="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl"
-        style={{ height: "400px", aspectRatio: "3/4" }}
+        className="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl h-[300px] sm:h-[400px] m-auto"
+        style={{ aspectRatio: "3/4" }}
       >
         {/* Image */}
         <div className="absolute inset-0">
@@ -28,17 +28,17 @@ const ProfileCard: React.FC<{
         </div>
 
         {/* Gradient Overlay */}
-        <div className="absolute inset-0 bg-gradient-to-t from-rose-900/80 via-rose-500/40"></div>
+        <div className="absolute inset-0 bg-gradient-to-t from-rose-900/80 via-rose-600/40 dark:from-rose-500/80"></div>
 
         {/* Text Content */}
-        <div className="relative z-10 text-white ml-4 mb-4">
+        <div className="relative z-10 text-white dark:text-black ml-4 mb-4">
           {/* Name and Age */}
-          <h3 className="text-3xl font-bold">
+          <h3 className="text-3xl font-bold mb-1">
             {firstName}
           </h3>
 
           {/* Details */}
-          <div className="text-sm text-slate-50/80 leading-6">
+          <div className="text-sm text-stone-300 dark:text-stone-800 leading-5">
             <p>{nationality}</p>
             <p>{location}</p>
           </div>

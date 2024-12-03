@@ -8,7 +8,7 @@ export default async function Index() {
       lastName: "Katigbak",
       age: 14,
       nationality: "Filipino",
-      location: "Pagsanjan",
+      location: "Lipa, Batangas",
       imageUrl:
         "https://herencialipena.com/wp-content/uploads/2022/01/segunda-katigbak-1-e1642307375285.jpg",
       link: "/Segunda_Katigbak"
@@ -16,12 +16,72 @@ export default async function Index() {
     {
       firstName: "Leonor",
       lastName: "Valenzuela",
-      age: null, // Null age handled below
+      age: null,
       nationality: "Filipino",
-      location: "Pagsanjan",
+      location: "Pagsanjan, Laguna",
       imageUrl:
         "https://talambuhay.net/wp-content/uploads/2023/10/image-4.png",
       link: "/Segunda_Katigbak"
+    },
+    {
+      firstName: "Leonor",
+      lastName: "Rivera",
+      age: null,
+      nationality: "Filipino",
+      location: "Camiling, Tarlac",
+      imageUrl:
+        "https://cdn.balita.net.ph/wp-content/uploads/2023/04/Untitled-design-2023-04-11T120023.213.png",
+      link: "/Segunda_Katigbak"
+    },
+    {
+      firstName: "Consuelo",
+      lastName: "Ortiga",
+      age: null,
+      nationality: "Spanish",
+      location: "Madrid",
+      imageUrl:
+        "https://rizal.raphaelmarco.com/static/files/consuelo-ortiga.jpg",
+      link: "/Consuelo_Ortiga"
+    },
+    {
+      firstName: "Seiko",
+      lastName: "Usui",
+      age: null,
+      nationality: "Japanese",
+      location: "Tokyo",
+      imageUrl:
+        "https://talambuhay.net/wp-content/uploads/2023/10/image-6.png",
+      link: "/Seiko_Usui"
+    },
+    {
+      firstName: "Gertrude",
+      lastName: "Beckett",
+      age: null,
+      nationality: "English",
+      location: "London",
+      imageUrl:
+        "https://philnews.ph/wp-content/uploads/2019/09/Gertrude-Beckett.jpg",
+      link: "/Gertrude_Beckett"
+    },
+    {
+      firstName: "Suzanne",
+      lastName: "Jacoby",
+      age: null,
+      nationality: "Belgian",
+      location: "Brussels",
+      imageUrl:
+        "https://talambuhay.net/wp-content/uploads/2023/10/image-5.png",
+      link: "/Suzanne_Jacoby"
+    },
+    {
+      firstName: "Nellie",
+      lastName: "Boustead",
+      age: null,
+      nationality: "French",
+      location: "???",
+      imageUrl:
+        "https://images.summitmedia-digital.com/spotph/images/files/2014/12/1419826924-Nellie-Boustead.jpg",
+      link: "/Nellie_Boustead"
     },
     {
       firstName: "Josephine",

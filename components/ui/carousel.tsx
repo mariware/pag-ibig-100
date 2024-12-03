@@ -50,7 +50,7 @@ const Carousel: React.FC<{
             <div className="bg-rose-400 flex items-center justify-center lg:my-12 p-6 relative">
                 <button
                     onClick={goToPrevious}
-                    className="bg-white text-rose-400 p-2 mr-4 rounded-full shadow-md hover:bg-rose-300"
+                    className="bg-white dark:bg-black text-rose-400 p-2 z-10 mr-[-1rem] sm:mr-4 rounded-full shadow-md hover:bg-rose-300"
                     aria-label="Previous"
                 >
                     <LeftIcon />
@@ -66,29 +66,31 @@ const Carousel: React.FC<{
                     </div>
 
                     {/* Indicators */}
-                    <div className="flex justify-center mt-6 space-x-3">
+                    <div className="flex justify-center mt-6 space-x-3 sm:space-x-2">
                         {profiles.map((_, index) => (
                             <button
-                                key={index}
-                                onClick={() => handleIndicatorClick(index)}
-                                className="h-6 w-6 flex justify-center items-center"
-                            >
-                                {index === currentIndex ? (
-                                    <HeartFilledIcon fontSize="small" style={{ color: "white" }} />
-                                ) : (
-                                    <HeartBorderIcon
-                                        fontSize="small"
-                                        style={{ color: "rgba(255, 255, 255, 0.5)" }}
-                                    />
-                                )}
-                            </button>
+                            key={index}
+                            onClick={() => handleIndicatorClick(index)}
+                            className="h-3 w-3 sm:h-6 sm:w-6 flex justify-center items-center"
+                          >
+                            {index === currentIndex ? (
+                              <HeartFilledIcon
+                                className="text-white dark:text-black" // Dark mode color
+                              />
+                            ) : (
+                              <HeartBorderIcon
+                                fontSize="small"
+                                className="text-white dark:text-black opacity-50" // Dark mode styles
+                              />
+                            )}
+                          </button>
                         ))}
                     </div>
                 </div>
 
                 <button
                     onClick={goToNext}
-                    className="bg-white text-rose-400 p-2 ml-4 rounded-full shadow-md hover:bg-rose-300"
+                    className="bg-white dark:bg-black text-rose-400 p-2 z-10 ml-[-1rem] sm:ml-4 rounded-full hover:bg-rose-300"
                     aria-label="Previous"
                 >
                     <RightIcon />
