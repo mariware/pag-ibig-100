@@ -17,8 +17,8 @@ const defaultUrl = process.env.VERCEL_URL
 
 export const metadata = {
   metadataBase: new URL(defaultUrl),
-  title: "Next.js and Supabase Starter Kit",
-  description: "The fastest way to build apps with Next.js and Supabase",
+  title: "Pag-ibig 100",
+  description: "The Love and Life of Rizal",
 };
 
 export default function RootLayout({
@@ -26,8 +26,22 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
+  const faviconSvg = encodeURIComponent(`
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#fb7185">
+      <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" />
+    </svg>
+  `);
   return (
     <html lang="en" className={GeistSans.className} suppressHydrationWarning>
+      <head>
+        <link
+          rel="icon"
+          type="image/svg+xml"
+          href={`data:image/svg+xml,${faviconSvg}`}
+        />
+        <title>{metadata.title}</title>
+        <meta name="description" content={metadata.description} />
+      </head>
       <body className="bg-background text-foreground">
         <ThemeProvider
           attribute="class"

@@ -10,7 +10,6 @@ const ProfileCard: React.FC<{
   return (
     <a
       href={link}
-      target="_blank"
       rel="noopener noreferrer"
       className="block max-w-sm mx-auto"
     >

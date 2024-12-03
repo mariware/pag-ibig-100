@@ -21,7 +21,7 @@ export default async function Index() {
       location: "Pagsanjan, Laguna",
       imageUrl:
         "https://talambuhay.net/wp-content/uploads/2023/10/image-4.png",
-      link: "/Segunda_Katigbak"
+      link: "/Leonor_Valenzuela"
     },
     {
       firstName: "Leonor",
@@ -31,7 +31,7 @@ export default async function Index() {
       location: "Camiling, Tarlac",
       imageUrl:
         "https://cdn.balita.net.ph/wp-content/uploads/2023/04/Untitled-design-2023-04-11T120023.213.png",
-      link: "/Segunda_Katigbak"
+      link: "/Leonor_Rivera"
     },
     {
       firstName: "Consuelo",
@@ -91,7 +91,7 @@ export default async function Index() {
       location: "British Hong Kong",
       imageUrl:
         "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Josephine_Bracken_BR.jpg/800px-Josephine_Bracken_BR.jpg",
-      link: "/Segunda_Katigbak"
+      link: "/Josephine_Bracken"
     },
   ];
 
