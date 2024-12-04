@@ -42,12 +42,15 @@ export default function SegundaKatigbak() {
       </div>
       <div className="w-full bg-white dark:bg-black">
         <div className="w-full max-w-5xl py-8 lg:py-16 m-auto flex flex-col p-3 px-10 lg:px-5 gap-4 text-base text-justify">
-          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Love at First Sight</h3>
+          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">First Crush</h3>
           <p>
-            Segunda Katigbak occupies a unique place in José Rizal's life as his first romantic infatuation, often described as "puppy love" and marked by "love at first sight." Rizal, then a 16-year-old student, met Segunda in 1887 during a visit to his grandmother in Manila. Segunda, two years younger and a student at La Concordia College, was admired by Rizal for her physical charm, which he vividly recorded in his diary. Their meetings grew more frequent as Rizal visited his sister Olympia at the same school, motivated largely by his budding affection for Segunda. The intensity of their connection was symbolized by an exchange of gifts—an artificial rose crafted by Segunda and a pencil sketch of her drawn by Rizal.
+            Segunda Katigbak has a unique place in José Rizal's love life as his first romantic infatuation or “puppy love.” The 16-year-old student Rizal fell in “love at first sight” when he met Segunda in 1887 during a visit to his grandmother in Manila. Segunda, two years younger and a student at La Concordia College, was admired by Rizal for her physical charm, which he recorded in his diary “Memoirs of a Student in Manila.” Rizal described her as having “eloquent eyes, rosy cheeks, and a smile that reveals  very beautiful teeth.”
           </p>
           <p>
-            Despite their growing intimacy, their romance was destined to be unfulfilled. Segunda was already engaged to Manuel Luz, a fellow townsman, a fact that Rizal learned later. This revelation, combined with Rizal's sense of delicadeza (honor), prevented him from pursuing her further. Their relationship ended poignantly when Rizal, though initially eager to meet her again, chose not to follow her carriage as she departed Biñan. This decisive moment marked the conclusion of their brief but heartfelt love story, leaving a lasting impression on Rizal's early emotional life.
+            Their meetings became more frequent as Rizal visited his sister Olympia at the same school, more motivated by his affection for Segunda than his sister. There is even an anecdote about the two exchanging gifts, with Segunda giving him an artificial white rose she crafted and Rizal giving a pencil sketch of her that he drew in exchange.
+          </p>
+          <p>
+            Despite their growing intimacy, their romance was destined to be unfulfilled as Segunda was already engaged to Manuel Luz. This, combined with Rizal's sense of <i>delicadeza</i> or honor, prevented him from pursuing her further. Their relationship ended when Rizal, though initially eager to meet her again, chose not to follow her carriage as she departed Biñan. This decisive moment marked the end of their heartfelt love story.
           </p>
           <button
             onClick={toggleReferences}
