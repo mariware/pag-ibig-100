@@ -27,27 +27,26 @@ export default function SeikoUsui() {
             <LoveIcon className="text-2xl pb-1" /> About Seiko
           </h3>
           <div className="w-full p-[1px] bg-gradient-to-r from-rose-200 dark:from-rose-400 to-transparent my-2 lg:my-4" />
-          <p className="text-xl lg:text-2xl text-stone-700 dark:text-stone-200">Pepe's puppy love, his love at first sight</p>
+          <p className="text-xl lg:text-2xl text-stone-700 dark:text-stone-200">チョジの花のように 🌸</p>
+          <p className="text-sm lg:text-base opacity-50 text-white">Translation: Like a Choji flower 🌸</p>
         </div>
         <div className="rounded-lg bg-white dark:bg-black p-6 lg:p-8 shadow-lg text-rose-400 gap-4 text-sm md:text-base">
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Full Name:</span>Segunda Solis Katigbak</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Nickname:</span>O-Sei-san</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Lifespan:</span>1863 - 1943</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Birthplace:</span>Lipa, Batangas</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Nationality:</span>Filipino</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Father:</span>Don Norberto Calao Catigbac</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Mother:</span>Justa Luz Solis</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Spouse:</span>Don Manuel Luz</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Full Name:</span>Seiko Usui</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Nickname:</span>O-Sei</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Lifespan:</span>1867 - 1947</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Birthplace:</span>Japan</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Nationality:</span>Japanese</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Spouse:</span>Alfred Charlton</p>
         </div>
       </div>
       <div className="w-full bg-white dark:bg-black">
         <div className="w-full max-w-5xl py-8 lg:py-16 m-auto flex flex-col p-3 px-10 lg:px-5 gap-4 text-base text-justify">
-          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Love at First Sight</h3>
+          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Sayonara, Sayonara!</h3>
           <p>
-            Segunda Katigbak occupies a unique place in José Rizal's life as his first romantic infatuation, often described as "puppy love" and marked by "love at first sight." Rizal, then a 16-year-old student, met Segunda in 1887 during a visit to his grandmother in Manila. Segunda, two years younger and a student at La Concordia College, was admired by Rizal for her physical charm, which he vividly recorded in his diary. Their meetings grew more frequent as Rizal visited his sister Olympia at the same school, motivated largely by his budding affection for Segunda. The intensity of their connection was symbolized by an exchange of gifts—an artificial rose crafted by Segunda and a pencil sketch of her drawn by Rizal.
+            During his short stay in Japan in 1888, José Rizal nurtured a tender romance with Seiko Usui, whom he affectionately called “O-Sei-San.” Their relationship blossomed as Seiko served as Rizal's guide and tutor, introducing him to Japanese culture, language, and notable landmarks. The two shared a deep intellectual and artistic connection. Rizal was captivated by Seiko's grace, intelligence, and modesty. Seiko, in turn, admired the Filipino doctor.
           </p>
           <p>
-            Despite their growing intimacy, their romance was destined to be unfulfilled. Segunda was already engaged to Manuel Luz, a fellow townsman, a fact that Rizal learned later. This revelation, combined with Rizal's sense of delicadeza (honor), prevented him from pursuing her further. Their relationship ended poignantly when Rizal, though initially eager to meet her again, chose not to follow her carriage as she departed Biñan. This decisive moment marked the conclusion of their brief but heartfelt love story, leaving a lasting impression on Rizal's early emotional life.
+            However, Rizal's commitment to his country led him to leave Japan. He deeply regretted this decision because he had to abandon his happiness with Seiko. Despite their parting, Rizal cherished her memory and dedicated heartfelt reflections to her in his diary. Seiko eventually married the English teacher Alfred Charlton, lived a long life, and left a legacy intertwined with Rizal's recollections of love sacrificed for duty.
           </p>
           <button
             onClick={toggleReferences}
@@ -63,23 +62,15 @@ export default function SeikoUsui() {
             <div className="w-full p-[1px] bg-gradient-to-r from-rose-200 dark:from-rose-400 to-transparent my-2 lg:my-4" />
             <p className="font-bold text-stone-700 dark:text-rose-400">References</p>
             <p>
-              Katigbak, R. (2022, November 12). Segunda Solis Katigbak: The charming lipeña who captivated Rizal's young heart.&nbsp; 
-              <i>Herencia Lipeña.&nbsp;</i>
-              <a href="https://herencialipena.com/2022/01/16/segunda-solis-katigbak/" target="_blank" rel="noopener noreferrer">
-                https://herencialipena.com/2022/01/16/segunda-solis-katigbak/
-              </a>
-            </p>
-            <p>
               Manebog, J. (2013). Colorful love affairs of Dr. Jose Rizal.&nbsp;
               <a href="https://www.everand.com/read/200206244/The-Colorful-Love-Affairs-of-Dr-Jose-Rizal" target="_blank" rel="noopener noreferrer">
                 https://www.everand.com/read/200206244/The-Colorful-Love-Affairs-of-Dr-Jose-Rizal
               </a>
             </p>
             <p>
-              Segunda Solis Katigbak. (2024, July 19).&nbsp;
-              <i>Geni.&nbsp;</i>
-              <a href="https://www.geni.com/people/Segunda-Katigbak/6000000002593265961" target="_blank" rel="noopener noreferrer">
-                https://www.geni.com/people/Segunda-Katigbak/6000000002593265961
+              Ocampo, A. (2015, December 11).&nbsp;<i>Rizal is hardly “gasgas.”&nbsp;</i> INQUIRER.net.&nbsp;
+              <a href="https://opinion.inquirer.net/91042/rizal-is-hardly-gasgas" target="_blank" rel="noopener noreferrer">
+                https://opinion.inquirer.net/91042/rizal-is-hardly-gasgas
               </a>
             </p>
           </div>

@@ -38,7 +38,7 @@ export default async function Index() {
       lastName: "Ortiga",
       age: null,
       nationality: "Spanish",
-      location: "Madrid",
+      location: "Madrid, Spain",
       imageUrl:
         "https://rizal.raphaelmarco.com/static/files/consuelo-ortiga.jpg",
       link: "/Consuelo_Ortiga"
@@ -48,7 +48,7 @@ export default async function Index() {
       lastName: "Usui",
       age: null,
       nationality: "Japanese",
-      location: "Tokyo",
+      location: "Tokyo, Japan",
       imageUrl:
         "https://talambuhay.net/wp-content/uploads/2023/10/image-6.png",
       link: "/Seiko_Usui"
@@ -58,7 +58,7 @@ export default async function Index() {
       lastName: "Beckett",
       age: null,
       nationality: "English",
-      location: "London",
+      location: "London, UK",
       imageUrl:
         "https://philnews.ph/wp-content/uploads/2019/09/Gertrude-Beckett.jpg",
       link: "/Gertrude_Beckett"
@@ -68,7 +68,7 @@ export default async function Index() {
       lastName: "Jacoby",
       age: null,
       nationality: "Belgian",
-      location: "Brussels",
+      location: "Brussels, Belgium",
       imageUrl:
         "https://talambuhay.net/wp-content/uploads/2023/10/image-5.png",
       link: "/Suzanne_Jacoby"
@@ -78,7 +78,7 @@ export default async function Index() {
       lastName: "Boustead",
       age: null,
       nationality: "French",
-      location: "???",
+      location: "French Riviera, France",
       imageUrl:
         "https://images.summitmedia-digital.com/spotph/images/files/2014/12/1419826924-Nellie-Boustead.jpg",
       link: "/Nellie_Boustead"

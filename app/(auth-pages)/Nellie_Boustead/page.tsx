@@ -13,7 +13,7 @@ export default function NellieBoustead() {
 
   return (
     <div className="w-full justify-center bg-rose-400">
-      <div className="bg-[url('https://images.summitmedia-digital.com/spotph/images/files/2014/12/1419826924-Nellie-Boustead.jpg')] bg-cover bg-top bg-fixed text-white dark:text-black h-48 lg:h-96 w-full flex flex-col lg:flex-row">
+      <div className="bg-[url('https://images.summitmedia-digital.com/spotph/images/files/2014/12/1419826924-Nellie-Boustead.jpg')] bg-cover bg-center bg-fixed text-white dark:text-black h-48 lg:h-96 w-full flex flex-col lg:flex-row">
         <div className="w-full h-48 lg:h-96 bg-black dark:bg-rose-300 opacity-50 absolute" />
         <div className="max-w-5xl lg:w-full h-full flex m-auto p-3 px-5 lg:items-end items-center lg:gap-4 z-10">
           <h1 className="font-bold text-5xl md:text-6xl lg:text-7xl lg:leading-[0.9] text-center lg:text-left lg:mb-8">
@@ -27,27 +27,26 @@ export default function NellieBoustead() {
             <LoveIcon className="text-2xl pb-1" /> About Nellie
           </h3>
           <div className="w-full p-[1px] bg-gradient-to-r from-rose-200 dark:from-rose-400 to-transparent my-2 lg:my-4" />
-          <p className="text-xl lg:text-2xl text-stone-700 dark:text-stone-200">Pepe's puppy love, his love at first sight</p>
+          <p className="text-xl lg:text-2xl text-stone-700 dark:text-stone-200">Luna's ex-fiancé and Rizal's almost wife</p>
         </div>
         <div className="rounded-lg bg-white dark:bg-black p-6 lg:p-8 shadow-lg text-rose-400 gap-4 text-sm md:text-base">
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Full Name:</span>Segunda Solis Katigbak</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Nickname:</span>O-Sei-san</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Lifespan:</span>1863 - 1943</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Birthplace:</span>Lipa, Batangas</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Nationality:</span>Filipino</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Father:</span>Don Norberto Calao Catigbac</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Mother:</span>Justa Luz Solis</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Spouse:</span>Don Manuel Luz</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Full Name:</span>Nellie Boustead</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Nickname:</span>Nelly</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Nationality:</span>French</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Father:</span>Eduardo Boustead</p>
         </div>
       </div>
       <div className="w-full bg-white dark:bg-black">
         <div className="w-full max-w-5xl py-8 lg:py-16 m-auto flex flex-col p-3 px-10 lg:px-5 gap-4 text-base text-justify">
-          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Love at First Sight</h3>
+          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Nellie Me Tangere</h3>
           <p>
-            Segunda Katigbak occupies a unique place in José Rizal's life as his first romantic infatuation, often described as "puppy love" and marked by "love at first sight." Rizal, then a 16-year-old student, met Segunda in 1887 during a visit to his grandmother in Manila. Segunda, two years younger and a student at La Concordia College, was admired by Rizal for her physical charm, which he vividly recorded in his diary. Their meetings grew more frequent as Rizal visited his sister Olympia at the same school, motivated largely by his budding affection for Segunda. The intensity of their connection was symbolized by an exchange of gifts—an artificial rose crafted by Segunda and a pencil sketch of her drawn by Rizal.
+            Nellie Boustead, the younger daughter of Eduardo Boustead, captured José Rizal's heart during his stay at the family's winter residence, Villa Eliada, in Biarritz in 1891. Nellie, a well-educated and morally upright woman, seemed like an ideal partner for Rizal, especially after he learned of Leonor Rivera’s marriage to Charles Henry Kipping. During Rizal’s stay, Nellie reciprocated his feelings and their relationship offered Rizal solace amidst his work on the final chapters of El Filibusterismo.
           </p>
           <p>
-            Despite their growing intimacy, their romance was destined to be unfulfilled. Segunda was already engaged to Manuel Luz, a fellow townsman, a fact that Rizal learned later. This revelation, combined with Rizal's sense of delicadeza (honor), prevented him from pursuing her further. Their relationship ended poignantly when Rizal, though initially eager to meet her again, chose not to follow her carriage as she departed Biñan. This decisive moment marked the conclusion of their brief but heartfelt love story, leaving a lasting impression on Rizal's early emotional life.
+            Encouraged by friends such as Tomás Arejola and even Antonio Luna, her ex-fiancé, Rizal considered proposing to her. However, several obstacles hindered their union. Nellie’s mother, protective of her daughter’s future, disapproved of Rizal and doubted his capability to provide a stable life for her. Moreover, Nellie’s insistence that Rizal convert to Protestantism proved to be their biggest hindrance, as Rizal remained steadfast in his Catholic beliefs.
+          </p>
+          <p>
+            Despite their parting, the two stayed as friends, with Nellie expressing her good wishes for Rizal in a heartfelt farewell letter. Their civil breakup signified their mutual respect and understanding of each other, even as they went separate ways.
           </p>
           <button
             onClick={toggleReferences}
@@ -63,23 +62,9 @@ export default function NellieBoustead() {
             <div className="w-full p-[1px] bg-gradient-to-r from-rose-200 dark:from-rose-400 to-transparent my-2 lg:my-4" />
             <p className="font-bold text-stone-700 dark:text-rose-400">References</p>
             <p>
-              Katigbak, R. (2022, November 12). Segunda Solis Katigbak: The charming lipeña who captivated Rizal's young heart.&nbsp; 
-              <i>Herencia Lipeña.&nbsp;</i>
-              <a href="https://herencialipena.com/2022/01/16/segunda-solis-katigbak/" target="_blank" rel="noopener noreferrer">
-                https://herencialipena.com/2022/01/16/segunda-solis-katigbak/
-              </a>
-            </p>
-            <p>
               Manebog, J. (2013). Colorful love affairs of Dr. Jose Rizal.&nbsp;
               <a href="https://www.everand.com/read/200206244/The-Colorful-Love-Affairs-of-Dr-Jose-Rizal" target="_blank" rel="noopener noreferrer">
                 https://www.everand.com/read/200206244/The-Colorful-Love-Affairs-of-Dr-Jose-Rizal
-              </a>
-            </p>
-            <p>
-              Segunda Solis Katigbak. (2024, July 19).&nbsp;
-              <i>Geni.&nbsp;</i>
-              <a href="https://www.geni.com/people/Segunda-Katigbak/6000000002593265961" target="_blank" rel="noopener noreferrer">
-                https://www.geni.com/people/Segunda-Katigbak/6000000002593265961
               </a>
             </p>
           </div>

@@ -27,27 +27,24 @@ export default function GertrudeBeckett() {
             <LoveIcon className="text-2xl pb-1" /> About Gertrude 
           </h3>
           <div className="w-full p-[1px] bg-gradient-to-r from-rose-200 dark:from-rose-400 to-transparent my-2 lg:my-4" />
-          <p className="text-xl lg:text-2xl text-stone-700 dark:text-stone-200">Pepe's puppy love, his love at first sight</p>
+          <p className="text-xl lg:text-2xl text-stone-700 dark:text-stone-200">Pettie's Gettie</p>
         </div>
         <div className="rounded-lg bg-white dark:bg-black p-6 lg:p-8 shadow-lg text-rose-400 gap-4 text-sm md:text-base">
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Full Name:</span>Segunda Solis Katigbak</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Nickname:</span>Unday</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Lifespan:</span>1863 - 1943</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Birthplace:</span>Lipa, Batangas</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Nationality:</span>Filipino</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Father:</span>Don Norberto Calao Catigbac</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Mother:</span>Justa Luz Solis</p>
-          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Spouse:</span>Don Manuel Luz</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Full Name:</span>Gertrude Beckett</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Nickname:</span>Tottie</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Birthplace:</span>United Kingdom</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Nationality:</span>British</p>
+          <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Father:</span>Charles Beckett</p>
         </div>
       </div>
       <div className="w-full bg-white dark:bg-black">
         <div className="w-full max-w-5xl py-8 lg:py-16 m-auto flex flex-col p-3 px-10 lg:px-5 gap-4 text-base text-justify">
-          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Love at First Sight</h3>
+          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Friendzone</h3>
           <p>
-            Segunda Katigbak occupies a unique place in José Rizal's life as his first romantic infatuation, often described as "puppy love" and marked by "love at first sight." Rizal, then a 16-year-old student, met Segunda in 1887 during a visit to his grandmother in Manila. Segunda, two years younger and a student at La Concordia College, was admired by Rizal for her physical charm, which he vividly recorded in his diary. Their meetings grew more frequent as Rizal visited his sister Olympia at the same school, motivated largely by his budding affection for Segunda. The intensity of their connection was symbolized by an exchange of gifts—an artificial rose crafted by Segunda and a pencil sketch of her drawn by Rizal.
+            During his stay in London from May 1888 to March 1889, José Rizal formed a close friendship with Gertrude Beckett, the daughter of his landlord, Charles Beckett. Gertrude was an attractive woman who had affectionate feelings for Rizal. She assisted him in his artistic endeavors, including painting and sculpting, and her support allowed him to complete significant works like Prometheus Bound and The Triumph of Science over Death. Rizal, in turn, enjoyed her company. He called her “Gettie” while she called him “Pettie.”
           </p>
           <p>
-            Despite their growing intimacy, their romance was destined to be unfulfilled. Segunda was already engaged to Manuel Luz, a fellow townsman, a fact that Rizal learned later. This revelation, combined with Rizal's sense of delicadeza (honor), prevented him from pursuing her further. Their relationship ended poignantly when Rizal, though initially eager to meet her again, chose not to follow her carriage as she departed Biñan. This decisive moment marked the conclusion of their brief but heartfelt love story, leaving a lasting impression on Rizal's early emotional life.
+            Rizal refrained from pursuing a romantic relationship, possibly out of respect for his personal principles. Some suggest their relationship was unreciprocated on Rizal’s part. To avoid further complications and to help Gertrude move on, Rizal left London in 1889, leaving behind a sculptural memento of the Beckett sisters as a gesture of friendship and gratitude.
           </p>
           <button
             onClick={toggleReferences}
@@ -63,23 +60,9 @@ export default function GertrudeBeckett() {
             <div className="w-full p-[1px] bg-gradient-to-r from-rose-200 dark:from-rose-400 to-transparent my-2 lg:my-4" />
             <p className="font-bold text-stone-700 dark:text-rose-400">References</p>
             <p>
-              Katigbak, R. (2022, November 12). Segunda Solis Katigbak: The charming lipeña who captivated Rizal's young heart.&nbsp; 
-              <i>Herencia Lipeña.&nbsp;</i>
-              <a href="https://herencialipena.com/2022/01/16/segunda-solis-katigbak/" target="_blank" rel="noopener noreferrer">
-                https://herencialipena.com/2022/01/16/segunda-solis-katigbak/
-              </a>
-            </p>
-            <p>
               Manebog, J. (2013). Colorful love affairs of Dr. Jose Rizal.&nbsp;
               <a href="https://www.everand.com/read/200206244/The-Colorful-Love-Affairs-of-Dr-Jose-Rizal" target="_blank" rel="noopener noreferrer">
                 https://www.everand.com/read/200206244/The-Colorful-Love-Affairs-of-Dr-Jose-Rizal
-              </a>
-            </p>
-            <p>
-              Segunda Solis Katigbak. (2024, July 19).&nbsp;
-              <i>Geni.&nbsp;</i>
-              <a href="https://www.geni.com/people/Segunda-Katigbak/6000000002593265961" target="_blank" rel="noopener noreferrer">
-                https://www.geni.com/people/Segunda-Katigbak/6000000002593265961
               </a>
             </p>
           </div>

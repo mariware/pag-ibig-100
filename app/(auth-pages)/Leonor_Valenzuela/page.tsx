@@ -42,7 +42,7 @@ export default function LeonorValenzuela() {
         <div className="w-full max-w-5xl py-8 lg:py-16 m-auto flex flex-col p-3 px-10 lg:px-5 gap-4 text-base text-justify">
           <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Invisible Love Letters</h3>
           <p>
-            Leonor Valenzuela, affectionately nicknamed “Orang,” was a significant figure in José Rizal's early romantic life, especially in connection with the other Leonor. She was a tall and dignified woman from Pagsanjan, Laguna who lived near Rizal during his time as a sophomore medical student at the University of Santo Tomas. Rizal, perhaps hoping to recover from his unrequited affection for Segunda Katigbak, frequently visited Orang’s home.
+            Leonor Valenzuela, affectionately nicknamed “Orang,” was a significant figure in José Rizal's early romantic life, especially in connection with the other Leonor. She was a tall and dignified woman from Pagsanjan, Laguna who lived near Rizal during his time as a sophomore medical student at the University of Santo Tomas. Rizal, perhaps hoping to recover from his unrequited affection for Segunda Katigbak, frequently visited Orang's home.
           </p>
           <p>
             Rizal expressed his admiration through inventive love notes written in invisible ink made of salt and water. One of the speculated reasons why Rizal wanted to be discreet about their relationship is because of his simultaneous courtship of Leonor Rivera. Due to the lack of evidence, it cannot be confirmed whether or not Rizal really had this red flag. Rizal also received a letter from his friend Jose M. Cecilio, hinting that the two Leonors were aware that they were sharing something else aside from their name.

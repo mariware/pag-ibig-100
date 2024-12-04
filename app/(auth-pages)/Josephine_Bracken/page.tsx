@@ -27,7 +27,7 @@ export default function JosephineBracken() {
             <LoveIcon className="text-2xl pb-1" /> About Josephine
           </h3>
           <div className="w-full p-[1px] bg-gradient-to-r from-rose-200 dark:from-rose-400 to-transparent my-2 lg:my-4" />
-          <p className="text-xl lg:text-2xl text-stone-700 dark:text-stone-200">Pepe's puppy love, his love at first sight</p>
+          <p className="text-xl lg:text-2xl text-stone-700 dark:text-stone-200">José Rizal's (unhappy) wife</p>
         </div>
         <div className="rounded-lg bg-white dark:bg-black p-6 lg:p-8 shadow-lg text-rose-400 gap-4 text-sm md:text-base">
           <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Full Name:</span>Segunda Solis Katigbak</p>
