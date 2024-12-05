@@ -84,22 +84,22 @@ export default function JosephineBracken() {
             <div className="w-full p-[1px] bg-gradient-to-r from-rose-200 dark:from-rose-400 to-transparent my-2 lg:my-4" />
             <p className="font-bold text-stone-700 dark:text-rose-400">References</p>
             <p>
-              Bantug, A. L. R., & Ventura, S. M. (1997). <i>Indio Bravo: The story of Jose Rizal.</i> Makati City, Philippines: Tahanan Books.
+              Bantug, A. L. R., & Ventura, S. M. (1997).&nbsp;<i>Indio Bravo: The story of Jose Rizal.&nbsp;</i>Makati City, Philippines: Tahanan Books.
             </p>
             <p>
-              Manebog, J. (2013). Colorful love affairs of Dr. Jose Rizal.
+              Manebog, J. (2013). Colorful love affairs of Dr. Jose Rizal.&nbsp;
               <a href="https://www.everand.com/read/200206244/The-Colorful-Love-Affairs-of-Dr-Jose-Rizal" target="_blank" rel="noopener noreferrer">
                 https://www.everand.com/read/200206244/The-Colorful-Love-Affairs-of-Dr-Jose-Rizal
               </a>
             </p>
             <p>
-              Ocampo, A. R. (2015, August 28). Josephine Bracken, revolutionary. <i>INQUIRER.net.</i>
+              Ocampo, A. R. (2015, August 28). Josephine Bracken, revolutionary.&nbsp;<i>INQUIRER.net.&nbsp;</i>
               <a href="https://opinion.inquirer.net/87988/josephine-bracken-revolutionary" target="_blank" rel="noopener noreferrer">
                 https://opinion.inquirer.net/87988/josephine-bracken-revolutionary
               </a>
             </p>
             <p>
-              Ocampo, A. R. (2016, February 12). Rizal in love. <i>INQUIRER.net.</i>
+              Ocampo, A. R. (2016, February 12). Rizal in love.&nbsp;<i>INQUIRER.net.&nbsp;</i>
               <a href="https://opinion.inquirer.net/92807/rizal-in-love" target="_blank" rel="noopener noreferrer">
                 https://opinion.inquirer.net/92807/rizal-in-love
               </a>

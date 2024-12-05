@@ -37,10 +37,10 @@ const Carousel: React.FC<{
     return (
         <div className="w-full flex flex-col lg:flex-row-reverse h-screen justify-center">
             <div className="flex flex-col m-12 items-left lg:gap-4 justify-center">
-                <h1 className="lg:max-w-lg font-bold text-4xl lg:text-7xl lg:leading-[0.9] text-center lg:text-left lg:pl-12">
+                <h1 className="lg:max-w-lg font-bold text-4xl lg:text-7xl lg:leading-[0.9] text-center lg:text-left lg:pl-6">
                     Read about the Rizals.
                 </h1>
-                <p className="text-md lg:text-lg text-center lg:text-left lg:pl-12">
+                <p className="text-md lg:text-lg text-center lg:text-left lg:pl-6">
                     This is the remarkable family that raised Rizal.
                 </p>
             </div>
@@ -63,12 +63,12 @@ const Carousel: React.FC<{
                     </div>
 
                     {/* Indicators */}
-                    <div className="flex justify-center mt-6">
+                    <div className="flex justify-center mt-6 gap-3 sm:gap-2">
                         {profiles.map((_, index) => (
                             <button
                                 key={index}
                                 onClick={() => handleIndicatorClick(index)}
-                                className="h-2 w-2 sm:h-6 sm:w-6 flex justify-center items-center"
+                                className="h-2 w-2 sm:h-4 sm:w-4 flex justify-center items-center"
                             >
                                 {index === currentIndex ? (
                                     <HeartFilledIcon
