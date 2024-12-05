@@ -43,7 +43,7 @@ export default function Saturnina() {
             <div className="w-full p-[1px] bg-gradient-to-r from-rose-200 dark:from-rose-400 to-transparent my-2 lg:my-4" />
             <p className="font-bold text-stone-700 dark:text-rose-400">References</p>
             <p>
-              Manebog, J. (2013). Interesting tales of the Jose Rizal family.&nbsp;
+              Manebog, J. (2013). Interesting tales of the Jose Rizal family.&nbsp; 
               <a href="https://www.everand.com/read/196726099/The-Interesting-Tales-of-the-Jose-Rizal-Family" target="_blank" rel="noopener noreferrer">
                 https://www.everand.com/read/196726099/The-Interesting-Tales-of-the-Jose-Rizal-Family
               </a>

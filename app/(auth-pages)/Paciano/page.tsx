@@ -70,7 +70,7 @@ export default function Paciano() {
               Bantug, A. L. R., & Ventura, S. M. (1997). <em>Indio Bravo, The Story of Jose Rizal</em>. Makati City, Philippines: Tahanan Books.
             </p>
             <p>
-              Manebog, J. (2013). Interesting tales of the Jose Rizal family.&nbsp;
+              Manebog, J. (2013). Interesting tales of the Jose Rizal family.&nbsp; 
               <a href="https://www.everand.com/read/196726099/The-Interesting-Tales-of-the-Jose-Rizal-Family" target="_blank" rel="noopener noreferrer">
                 https://www.everand.com/read/196726099/The-Interesting-Tales-of-the-Jose-Rizal-Family
               </a>
