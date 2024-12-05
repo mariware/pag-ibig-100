@@ -3,7 +3,7 @@
 import LoveIcon from '@mui/icons-material/FavoriteRounded';
 import { useState } from 'react';
 
-export default function FranciscoMercado() {
+export default function TeodoraAlonso() {
 
   const [showReferences, setShowReferences] = useState(false);
 
@@ -17,7 +17,7 @@ export default function FranciscoMercado() {
         <div className="w-full h-48 lg:h-96 bg-black dark:bg-rose-300 opacity-50 absolute" />
         <div className="max-w-5xl lg:w-full h-full flex m-auto p-3 px-5 lg:items-end items-center lg:gap-4 z-10">
           <h1 className="font-bold text-5xl md:text-6xl lg:text-7xl lg:leading-[0.9] text-center lg:text-left lg:mb-8">
-            Teodora Alonso
+            Teodora Alonso Realonda
           </h1>
         </div>
       </div>

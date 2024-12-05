@@ -17,7 +17,7 @@ export default function FranciscoMercado() {
         <div className="w-full h-48 lg:h-96 bg-black dark:bg-rose-300 opacity-50 absolute" />
         <div className="max-w-5xl lg:w-full h-full flex m-auto p-3 px-5 lg:items-end items-center lg:gap-4 z-10">
           <h1 className="font-bold text-5xl md:text-6xl lg:text-7xl lg:leading-[0.9] text-center lg:text-left lg:mb-8">
-            Francisco Mercado
+            Francisco Mercado Rizal
           </h1>
         </div>
       </div>
@@ -43,9 +43,9 @@ export default function FranciscoMercado() {
           <p>
             Rizal's respect for his father continued into adulthood. José even named his child after his father. Unfortunately, the baby died a few hours after being born. Additionally, in the final moments of his life, José wrote a deeply emotional letter to his brother Paciano, expressing his regret for any pain he may have caused his father. In a separate letter addressed directly to Don Francisco, José wrote,
           </p>
-          <p className="px-8">
+          <blockquote className="italic px-8 text-stone-700 dark:text-stone-300">
             "My beloved Father, pardon me for the pain with which I repay you for sorrows and sacrifices for my education. I did not want nor did I prefer it. Goodbye, Father, goodbye…"
-          </p>
+          </blockquote>
           <h3 className="text-xl font-bold lg:text-2xl text-stone-700 dark:text-rose-400 py-4 text-left">Don Francisco's Influence on José's Legacy</h3>
           <p>
             Don Francisco's influence on José did not end with his death in 1898. Even in exile, José honored his father's memory and teachings. Don Francisco advised José against returning to the Philippines after the Cavite mutiny and the martyrdom of Gomburza. He was aware of the dangers José faced as an intellectual and nationalist. Nevertheless, José continued to write and fight for reform through his novels, Noli Me Tangere and El Filibusterismo.

@@ -148,7 +148,7 @@ export default async function Index() {
     {
       name: "Concepcion",
       relation: "Sister (eighth child)",
-      imageUrl: "https://live.staticflickr.com/4411/36965247232_c73fe119bb_c.jpg",
+      imageUrl: "https://static.vecteezy.com/system/resources/thumbnails/007/810/782/small_2x/vintage-grunge-texture-background-vector.jpg",
       link: "/Concepcion",
     },
     {
@@ -166,7 +166,7 @@ export default async function Index() {
     {
       name: "Soledad",
       relation: "Sister (eleventh child)",
-      imageUrl: "https://live.staticflickr.com/2767/4456783116_0f1bbbf949_m.jpg",
+      imageUrl: "https://kahimyang.com/resources-23/solidad-rizal.avif",
       link: "/Soledad",
     },
   ];
