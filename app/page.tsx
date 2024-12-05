@@ -1,8 +1,9 @@
 import Hero from "@/components/hero";
 import Carousel from "@/components/ui/carousel";
+import CarouselMod from "@/components/ui/carouselmod";
 
 export default async function Index() {
-  const profiles = [
+  const women = [
     {
       firstName: "Segunda",
       lastName: "Katigbak",
@@ -95,13 +96,87 @@ export default async function Index() {
     },
   ];
 
+  const family = [
+    {
+      name: "Don Francisco",
+      relation: "Father",
+      imageUrl: "https://kahimyang.com/resources-14/francisco_mercado.jpg",
+      link: "/Francisco_Mercado",
+    },
+    {
+      name: "Doña Lolay",
+      relation: "Mother",
+      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/2/23/Theodora_alonzo_quintos.jpg",
+      link: "/Teodora_Alonso",
+    },
+    {
+      name: "Saturnina",
+      relation: "Sister (first child)",
+      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/7/78/Saturnina_mercado.jpg",
+      link: "/Saturnina",
+    },
+    {
+      name: "Paciano",
+      relation: "Brother (second child)",
+      imageUrl: "https://images.findagrave.com/photos/2022/56/94596162_1c9b975d-c965-41b4-9252-c6f3f6ec3bb5.jpeg?size=photos250",
+      link: "/Paciano",
+    },
+    {
+      name: "Narcisa",
+      relation: "Sister (third child)",
+      imageUrl: "https://www.knightsofrizal.be/images/family/03-narcisa.jpg",
+      link: "/Narcisa",
+    },
+    {
+      name: "Olympia",
+      relation: "Sister (fourth child)",
+      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/7/70/Olimpia_mercado.jpg",
+      link: "/Olympia",
+    },
+    {
+      name: "Lucia",
+      relation: "Sister (fifth child)",
+      imageUrl: "https://ourhappyschool.com/sites/default/files/luc.jpg",
+      link: "/Lucia",
+    },
+    {
+      name: "Maria",
+      relation: "Sister (sixth child)",
+      imageUrl: "https://ourhappyschool.com/sites/default/files/maria.jpg",
+      link: "/Maria",
+    },
+    {
+      name: "Concepcion",
+      relation: "Sister (eighth child)",
+      imageUrl: "https://live.staticflickr.com/4411/36965247232_c73fe119bb_c.jpg",
+      link: "/Concepcion",
+    },
+    {
+      name: "Josefa",
+      relation: "Sister (ninth child)",
+      imageUrl: "https://ourhappyschool.com/sites/default/files/josefa.jpg",
+      link: "/Josefa",
+    },
+    {
+      name: "Trinidad",
+      relation: "Sister (tenth child)",
+      imageUrl: "https://kahimyang.com/resources-14/trinidad-rizal.webp",
+      link: "/Trinidad",
+    },
+    {
+      name: "Soledad",
+      relation: "Sister (eleventh child)",
+      imageUrl: "https://live.staticflickr.com/2767/4456783116_0f1bbbf949_m.jpg",
+      link: "/Soledad",
+    },
+  ];
+  
+
   return (
     <>
       {/* <Hero /> */}
-      <Carousel profiles={profiles} />
-      <main className="flex-1 flex flex-col">
-        
-      </main>
+      <Carousel profiles={women} />
+      <CarouselMod profiles={family} />
     </>
   );
 }

@@ -44,13 +44,13 @@ const Carousel: React.FC<{
                    Meet the women in Rizal's life.
                 </h1>
                 <p className="text-md lg:text-lg text-center lg:text-left">
-                    Our national hero is an intervational lover boy.
+                    The national hero is an intervational lover boy.
                 </p>
             </div>
-            <div className="bg-rose-400 flex items-center justify-center mb-12 lg:mb-0 lg:my-12 p-6 relative">
+            <div className="bg-rose-400 flex items-center justify-center mb-12 lg:my-12 p-6 relative">
                 <button
                     onClick={goToPrevious}
-                    className="bg-white dark:bg-black text-rose-400 p-2 z-10 mr-[-1rem] sm:mr-4 rounded-full shadow-md hover:bg-rose-300"
+                    className="bg-white dark:bg-black text-rose-400 p-2 z-10 mr-[-1rem] sm:mr-4 rounded-full hover:bg-rose-300"
                     aria-label="Previous"
                 >
                     <LeftIcon />
