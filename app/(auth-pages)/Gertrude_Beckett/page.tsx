@@ -39,7 +39,7 @@ export default function GertrudeBeckett() {
       </div>
       <div className="w-full bg-white dark:bg-black">
         <div className="w-full max-w-5xl py-8 lg:py-16 m-auto flex flex-col p-3 px-10 lg:px-5 gap-4 text-base text-justify">
-          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Friendzone</h3>
+          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4 text-left">Friendzone</h3>
           <p>
             During his stay in London from May 1888 to March 1889, José Rizal formed a close friendship with Gertrude Beckett, the daughter of his landlord, Charles Beckett. Gertrude was an attractive woman who had affectionate feelings for Rizal. She assisted him in his artistic endeavors, including painting and sculpting, and her support allowed him to complete significant works like Prometheus Bound and The Triumph of Science over Death. Rizal, in turn, enjoyed her company. He called her “Gettie” while she called him “Pettie.”
           </p>

@@ -27,7 +27,7 @@ export default function LeonorRivera() {
             <LoveIcon className="text-2xl pb-1" /> About Leonor R.
           </h3>
           <div className="w-full p-[1px] bg-gradient-to-r from-rose-200 dark:from-rose-400 to-transparent my-2 lg:my-4" />
-          <p className="text-xl lg:text-2xl text-stone-700 dark:text-stone-200">Jose's childhood sweetheart, has strict parents</p>
+          <p className="text-xl lg:text-2xl text-stone-700 dark:text-stone-200">José's childhood sweetheart, has strict parents</p>
         </div>
         <div className="rounded-lg bg-white dark:bg-black p-6 lg:p-8 shadow-lg text-rose-400 gap-4 text-sm md:text-base">
           <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Full Name:</span>Leonor Rivera</p>
@@ -42,7 +42,7 @@ export default function LeonorRivera() {
       </div>
       <div className="w-full bg-white dark:bg-black">
         <div className="w-full max-w-5xl py-8 lg:py-16 m-auto flex flex-col p-3 px-10 lg:px-5 gap-4 text-base text-justify">
-          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Love Letters to Leonor</h3>
+          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4 text-left">Love Letters to Leonor</h3>
           <p>
             Leonor Rivera is regarded as José Rizal's “true love.” She was a distant cousin of Rizal, described as a beautiful and intelligent woman, skilled in both singing and playing some instruments. Their romance began during Rizal's medical studies at the University of Santo Tomas when he boarded at Leonor's family home in Intramuros. The relationship was kept secret by the pseudonyms like “Taimis” in her love letters.
           </p>

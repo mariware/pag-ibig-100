@@ -28,7 +28,7 @@ export default function SeikoUsui() {
           </h3>
           <div className="w-full p-[1px] bg-gradient-to-r from-rose-200 dark:from-rose-400 to-transparent my-2 lg:my-4" />
           <p className="text-xl lg:text-2xl text-stone-700 dark:text-stone-200">チョジの花のように 🌸</p>
-          <p className="text-sm lg:text-base opacity-50 text-white">Translation: Like a Choji flower 🌸</p>
+          <p className="text-sm lg:text-base opacity-50 text-black dark:text-stone-200">Translation: Like a Choji flower 🌸</p>
         </div>
         <div className="rounded-lg bg-white dark:bg-black p-6 lg:p-8 shadow-lg text-rose-400 gap-4 text-sm md:text-base">
           <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Full Name:</span>Seiko Usui</p>
@@ -41,7 +41,7 @@ export default function SeikoUsui() {
       </div>
       <div className="w-full bg-white dark:bg-black">
         <div className="w-full max-w-5xl py-8 lg:py-16 m-auto flex flex-col p-3 px-10 lg:px-5 gap-4 text-base text-justify">
-          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Sayonara, Sayonara!</h3>
+          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4 text-left">Sayonara, Sayonara!</h3>
           <p>
             During his short stay in Japan in 1888, José Rizal nurtured a tender romance with Seiko Usui, whom he affectionately called “O-Sei-San.” Their relationship blossomed as Seiko served as Rizal's guide and tutor, introducing him to Japanese culture, language, and notable landmarks. The two shared a deep intellectual and artistic connection. Rizal was captivated by Seiko's grace, intelligence, and modesty. Seiko, in turn, admired the Filipino doctor.
           </p>

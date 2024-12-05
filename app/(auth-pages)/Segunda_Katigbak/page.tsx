@@ -42,7 +42,7 @@ export default function SegundaKatigbak() {
       </div>
       <div className="w-full bg-white dark:bg-black">
         <div className="w-full max-w-5xl py-8 lg:py-16 m-auto flex flex-col p-3 px-10 lg:px-5 gap-4 text-base text-justify">
-          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">First Crush</h3>
+          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4 text-left">First Crush</h3>
           <p>
             Segunda Katigbak has a unique place in José Rizal's love life as his first romantic infatuation or “puppy love.” The 16-year-old student Rizal fell in “love at first sight” when he met Segunda in 1887 during a visit to his grandmother in Manila. Segunda, two years younger and a student at La Concordia College, was admired by Rizal for her physical charm, which he recorded in his diary “Memoirs of a Student in Manila.” Rizal described her as having “eloquent eyes, rosy cheeks, and a smile that reveals  very beautiful teeth.”
           </p>

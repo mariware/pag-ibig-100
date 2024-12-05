@@ -38,7 +38,7 @@ export default function NellieBoustead() {
       </div>
       <div className="w-full bg-white dark:bg-black">
         <div className="w-full max-w-5xl py-8 lg:py-16 m-auto flex flex-col p-3 px-10 lg:px-5 gap-4 text-base text-justify">
-          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Nellie Me Tangere</h3>
+          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4 text-left">Nellie Me Tangere</h3>
           <p>
             Nellie Boustead, the younger daughter of Eduardo Boustead, captured José Rizal's heart during his stay at the family's winter residence, Villa Eliada, in Biarritz in 1891. Nellie, a well-educated and morally upright woman, seemed like an ideal partner for Rizal, especially after he learned of Leonor Rivera’s marriage to Charles Henry Kipping. During Rizal’s stay, Nellie reciprocated his feelings and their relationship offered Rizal solace amidst his work on the final chapters of El Filibusterismo.
           </p>

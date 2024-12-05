@@ -28,7 +28,7 @@ export default function ConsueloOrtiga() {
           </h3>
           <div className="w-full p-[1px] bg-gradient-to-r from-rose-200 dark:from-rose-400 to-transparent my-2 lg:my-4" />
           <p className="text-xl lg:text-2xl text-stone-700 dark:text-stone-200"><i>el crush de la ciudad</i></p>
-          <p className="text-sm lg:text-base opacity-50 text-white">Translation: crush ng bayan</p>
+          <p className="text-sm lg:text-base opacity-50 text-black dark:text-stone-200">Translation: crush ng bayan</p>
         </div>
         <div className="rounded-lg bg-white dark:bg-black p-6 lg:p-8 shadow-lg text-rose-400 gap-4 text-sm md:text-base">
           <p className="text-stone-700 dark:text-stone-200"><span className="font-bold text-rose-400 pr-2">Full Name:</span>Consuelo Ortiga y Rey</p>
@@ -40,7 +40,7 @@ export default function ConsueloOrtiga() {
       </div>
       <div className="w-full bg-white dark:bg-black">
         <div className="w-full max-w-5xl py-8 lg:py-16 m-auto flex flex-col p-3 px-10 lg:px-5 gap-4 text-base text-justify">
-          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Bros Before Foes</h3>
+          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4 text-left">Bros Before Foes</h3>
           <p>
             José Rizal's short-time romance with Consuelo Ortiga y Rey, a Spanish woman he met during his studies in Madrid, highlighted his rizz. Consuelo, the prettier daughter of Don Pablo Ortiga y Rey, a prominent figure in the Filipino-Spanish liberal community, was always in social gatherings frequented by Rizal and his compatriots. Their connection was marked by mutual admiration, as Consuelo recorded in her diary their late-night talks and Rizal's charismatic presence during her family's gatherings.
           </p>

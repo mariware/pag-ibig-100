@@ -40,7 +40,7 @@ export default function LeonorValenzuela() {
       </div>
       <div className="w-full bg-white dark:bg-black">
         <div className="w-full max-w-5xl py-8 lg:py-16 m-auto flex flex-col p-3 px-10 lg:px-5 gap-4 text-base text-justify">
-          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Invisible Love Letters</h3>
+          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4 text-left">Invisible Love Letters</h3>
           <p>
             Leonor Valenzuela, affectionately nicknamed “Orang,” was a significant figure in José Rizal's early romantic life, especially in connection with the other Leonor. She was a tall and dignified woman from Pagsanjan, Laguna who lived near Rizal during his time as a sophomore medical student at the University of Santo Tomas. Rizal, perhaps hoping to recover from his unrequited affection for Segunda Katigbak, frequently visited Orang's home.
           </p>

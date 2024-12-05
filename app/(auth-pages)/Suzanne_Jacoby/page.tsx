@@ -42,7 +42,7 @@ export default function SuzanneJacoby() {
       </div>
       <div className="w-full bg-white dark:bg-black">
         <div className="w-full max-w-5xl py-8 lg:py-16 m-auto flex flex-col p-3 px-10 lg:px-5 gap-4 text-base text-justify">
-          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4">Keeping Tabs</h3>
+          <h3 className="text-3xl font-bold lg:text-4xl text-stone-700 dark:text-rose-400 py-4 text-left">Keeping Tabs</h3>
           <p>
             During his stay in Brussels in 1890, José Rizal encountered Suzanne Jacoby, a petite Belgian lady who fell in love with him. Living in a boarding house managed by Suzanne's aunts, Rizal spent six months on his literary work, particularly El Filibusterismo. Despite his preoccupations, Rizal and Suzanne shared a mutual understanding, with Suzanne even calling him a “little bad boy.” Their interactions were warm yet casual. Rizal did not appear deeply invested emotionally compared to her.
           </p>
