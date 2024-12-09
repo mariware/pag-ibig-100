@@ -66,20 +66,32 @@ export default function RootLayout({
                 {children}
               </div>
 
-              <footer className="w-full flex items-center justify-center border-t mx-auto text-center text-xs gap-2 py-16">
-                <p>
-                  This website is created by{" "}
-                  <a
-                    href="https://github.com/mariware"
-                    target="_blank"
-                    className="font-bold hover:underline"
-                    rel="noreferrer"
+              <footer className="w-full flex flex-col items-center justify-center border-t mx-auto text-center text-xs gap-4 py-16">
+                <a
+                  href="/about"
+                  rel="noreferrer"
+                >
+                  <button
+                    className="w-fit ml-auto text-xs text-white bg-rose-400 dark:bg-rose-500 px-4 py-2 mt-4 rounded-full opacity-50 hover:opacity-100"
                   >
-                    mariware
-                  </a>
-                  .
-                </p>
-                <ThemeSwitcher />
+                    About This Website
+                  </button>
+                </a>
+                <div className="w-full flex items-center justify-center mx-auto text-center text-xs gap-2">
+                  <p>
+                    This website is created by{" "}
+                    <a
+                      href="https://github.com/mariware"
+                      target="_blank"
+                      className="font-bold hover:underline"
+                      rel="noreferrer"
+                    >
+                      mariware
+                    </a>
+                    .
+                  </p>
+                  <ThemeSwitcher />
+                </div>
               </footer>
             </div>
           </main>
